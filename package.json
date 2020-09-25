@@ -1,0 +1,8 @@
+{
+  "name": "gql-jwt-node-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rodzy/gql-jwt-node-example.git",
+  "author": "rodzy <irod2899@gmail.com>",
+  "license": "MIT"
+}
